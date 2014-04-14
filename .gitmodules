@@ -1,0 +1,18 @@
+[submodule "vagrant/cookbooks/java"]
+	path = vagrant/cookbooks/java
+	url = https://github.com/opscode-cookbooks/java.git
+[submodule "vagrant/cookbooks/apt"]
+	path = vagrant/cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "vagrant/cookbooks/neo4j-server"]
+	path = vagrant/cookbooks/neo4j-server
+	url = https://github.com/michaelklishin/neo4j-server-chef-cookbook.git
+[submodule "vagrant/cookbooks/mc"]
+	path = vagrant/cookbooks/mc
+	url = https://github.com/styx/chef-mc
+[submodule "vagrant/cookbooks/php"]
+	path = vagrant/cookbooks/php
+	url = https://github.com/opscode-cookbooks/php
+[submodule "vagrant/cookbooks/curl"]
+	path = vagrant/cookbooks/curl
+	url = https://github.com/retr0h/cookbook-curl
