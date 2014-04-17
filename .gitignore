@@ -2,3 +2,9 @@
 
 .vagrant
 logs
+
+neo4j/data
+neo4j/server
+neo4j/db/*/*.zip
+
+composer.lock

@@ -16,3 +16,6 @@
 [submodule "vagrant/cookbooks/curl"]
 	path = vagrant/cookbooks/curl
 	url = https://github.com/retr0h/cookbook-curl
+[submodule "vagrant/cookbooks/apache2"]
+	path = vagrant/cookbooks/apache2
+	url = http://github.com/opscode-cookbooks/apache2
