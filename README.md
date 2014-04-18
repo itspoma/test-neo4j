@@ -7,6 +7,10 @@
 * php demo: `http://33.33.33.33:80/`
 
 ---
+
+![](http://new.tinygrab.com/7020c0e8b0ad0b5dd81c6991d20ad288f583445a9e.png)
+
+---
 **Restore backup:**
 
 * `vagrant$ sudo mc -e /vagrant/neo4j/server/conf/neo4j.properties`
