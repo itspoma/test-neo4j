@@ -85,3 +85,4 @@
  * `START u1 = node:Person(name="Alexei"), u2 = node:Person(name="Gennadiy") MATCH p = shortestPath( u1-[*]-u2 ) RETURN COLLECT(p)`
 * create
  * `CREATE (key[:index] [:props]) (alex:Person {name:'Alexei'}), (anatoliy:Person {name:'Anatoliy'}), (benedikt:Person {name:'Benedikt'}), (epam:Company {name:'EPAM Systems'}), (php:Skill:Language {name:'php'}), (java:Skill:Language {name:'java'}), (andrew)-[:WORKS_FOR]->(epam), (evgen)-[:WORKS_FOR]->(epam), (petro)-[:HAS_SKILL]->(php) RETURN RETURN andrew;`
+* `CREATE (n:HACKER {hack: '<script>alert("hacked!")</script>'}) RETURN n`
