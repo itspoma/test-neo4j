@@ -2,6 +2,9 @@
 * re-runs the Chef: `host$ vagrant provision`
 * enter to vagrant box: `host$ vagrant ssh`
 * restart neo4j server: `vagrant$ sudo neo4j restart`
+* updated web-panel: `http://33.33.33.33:7474/browser/`
+* old web-panel: `http://33.33.33.33:7474/webadmin/`
+* php demo: `http://33.33.33.33:80/`
 
 ---
 **Restore backup:**
